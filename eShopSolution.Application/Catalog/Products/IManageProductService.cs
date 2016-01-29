@@ -4,7 +4,6 @@ using eShopSolution.ViewModels.Common;
 using Microsoft.AspNetCore.Http;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using ProductImageViewModel = eShopSolution.ViewModels.Catalog.ProductImages.ProductImageViewModel;
 
 namespace eShopSolution.Application.Catalog.Products
 {
